@@ -1,0 +1,11 @@
+#border{
+    margin: 20px auto;
+    padding: 10px;
+    border: 2px solid black;
+    width: 50%;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+.auth{
+    margin: 1rem 0.5rem 2rem 7rem
+}

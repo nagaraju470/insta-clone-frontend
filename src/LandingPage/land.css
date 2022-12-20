@@ -1,0 +1,25 @@
+
+#container{
+    margin: 50px;
+    display: flex;
+    align-items: center
+}
+.half1{
+    display: flex;
+    width: 50%;
+    height: 100vh;
+}
+.half2{
+    width: 50%;
+}
+#image{
+    width: 95%;
+}
+#btn{
+    border: 1px solid green;
+    color: green;
+    margin: 20px;
+    padding: 10px 40px;
+    border-radius: 10px;
+    font-size: larger;
+}

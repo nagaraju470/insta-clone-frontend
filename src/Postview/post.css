@@ -1,0 +1,48 @@
+.navbar{
+
+    
+    display: flex;
+  
+    border: 1px solid gray;
+    padding: 10px;
+}
+#logo{
+   height: 30px;
+   border-radius: 9px;
+   margin: 20px 0 20px 30px;
+}
+#cam{
+    height: 30px;
+    margin: 20px 0 20px 65rem;
+}
+#logo_heading{
+    color: green;
+}
+.post_contain{
+    margin: 20px auto;
+    width: 40%;
+    border: 1px solid gray;
+    box-sizing: border-box;
+}
+.graystring{
+    color: gray;
+}
+.name{
+    display: flex;
+}
+.imgcontain{
+    margin: auto;
+    width: 100%;
+}
+#imagepost{
+    height: 30rem;
+    width: 50rem;
+    max-width: 100%;
+}
+.heart_share{
+    height: 30px;
+    border-radius: 9px;
+   
+    margin: 10px 0 20px 30px;
+    
+}
